@@ -1,4 +1,4 @@
-// Amir2
+// Amir2 - main2
 ArrayList<Integer> x = new ArrayList<Integer>(), y = new ArrayList<Integer>();
 int w=30, h=30, blocks=20, diraction = 2, foodx = 15, foody = 15, fc1 = 255, fc2 = 255, fc3 = 255, speed = 8, extra_lifex = 15, extra_lifey = 15, exl1 = 255, exl2 = 255, exl3 = 255;
 int[] x_diraction={0,0,1,-1}, y_diraction={1,-1,0,0};
